@@ -1,4 +1,4 @@
-<h1>Hi, I'm Muano, an <a href="https://linkedin.com/in/Muano Gavhi">IT Professional</a>☺</h1>
+<h1>Hi, I'm Muano, an <a href="https://(https://www.linkedin.com/in/muano-gavhi-747a48344?">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
