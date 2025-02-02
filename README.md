@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="www.linkedin.com/in/muanogavhi">IT Professional</a>☺</h1>
+<h1>Hi, I'm Josh, an <a href="[www.linkedin.com/in/muanogavhi](https://www.linkedin.com/in/muano-gavhi-747a48344/)">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
